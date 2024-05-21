@@ -6,7 +6,7 @@
   </p>
   <p align="center">
     <a href="https://github.com/KasanjeLucas/NumericalCalculation/blob/master/LICENSE" align="center">
-      <img src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+      <img src="https://img.shields.io/badge/License-Apache-yellow.svg" />
     </a>
   </p>
 </p>
